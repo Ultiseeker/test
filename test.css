@@ -1,0 +1,13 @@
+ :root{ 
+--Header_BG: #121212;
+}
+
+
+/* Qlik Sheet where the objects are extra entire sheet background */
+.qvt-sheet {
+    background: var(--Header_BG) !important;
+}
+
+.qv-animate {
+  background-color: var(--Header_BG) !important;
+}
